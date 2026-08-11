@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="banner.png" alt="Sonal Tamse" width="100%">
-</p>
-
-<h1 align="center">Hi 👋, I'm Sonal Tamse</h1>
-
-<p align="center">
   <img
     src="./bannerImage.png"
     alt="Sonal Tamse - Backend Software Engineer"
@@ -12,13 +6,31 @@
   />
 </p>
 
+<h1 align="center">Hi 👋, I'm Sonal Tamse</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/thesonaltamse">
-    LinkedIn
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="32"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;•&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sonaltamse">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      width="32"
+      alt="GitHub"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:sonaltamse@gmail.com">
-    Email
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      width="32"
+      alt="Email"
+    />
   </a>
 </p>
 
