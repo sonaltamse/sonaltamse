@@ -28,22 +28,28 @@
   3+ years of professional software engineering experience
 </p>
 
-About
+## About
 
-Backend Software Engineer specializing in Java, Spring Boot, distributed systems, and cloud-native backend development.
-Experienced in designing and developing backend services, REST APIs, event-driven workflows, asynchronous processing pipelines, and secure application architectures.
+Backend Software Engineer with 3+ YOE building
+and evolving scalable backend systems and production APIs.
 
-Core Engineering
-Java & Spring Boot backend development
-REST API and microservice design
-Event-driven architectures with Apache Kafka and RabbitMQ
-Asynchronous and distributed processing
-AWS-based cloud infrastructure
-Docker, Kubernetes, and CI/CD automation
-Relational and NoSQL data stores
-Authentication and authorization using Spring Security and JWT
-LLM API integration and AI-powered backend applications
-Performance-oriented database and application design
+I specialize in Java, Spring Boot, microservices, distributed systems, and
+event-driven architectures, with hands-on experience designing REST APIs,
+asynchronous workflows, and cloud-native services on AWS.
+
+My engineering focus includes system design, service reliability,
+performance optimization, data-intensive applications, and secure API
+development. I also integrate LLM APIs and AI-assisted tooling into backend
+applications and engineering workflows.
+
+### Core Engineering
+
+- **Backend:** Java · Spring Boot · Spring Security · REST APIs · Microservices
+- **Distributed Systems:** Kafka · RabbitMQ · Event-Driven Architecture · Async Processing
+- **Cloud & Infrastructure:** AWS · Docker · Kubernetes · CI/CD
+- **Data:** PostgreSQL · MySQL · MongoDB · Redis
+- **AI Engineering:** LLM APIs · Google GenAI · AI-assisted development
+- **Engineering:** System Design · API Design · Performance · Reliability · Security
 
 Technical Stack
 
@@ -92,25 +98,3 @@ AI & Developer Tools
 </p>
 
 LLM API Integration · Google GenAI · GitHub Copilot · AI-Powered Code Review · AI-Assisted Development
-
-GitHub Activity
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=sonaltamse&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonaltamse&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sonaltamse&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
