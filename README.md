@@ -6,8 +6,9 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+AWS+%7C+Kafka;Scalable+Distributed+Systems+%7C+Microservices;Cloud+%7C+Event-Driven+Architecture+%7C+AI"
-    alt="Backend Software Engineer"
+    src="./bannerImage.png"
+    alt="Sonal Tamse - Backend Software Engineer"
+    width="100%"
   />
 </p>
 
