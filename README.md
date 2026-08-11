@@ -20,14 +20,6 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>Backend Software Engineer · Java · Spring Boot · Distributed Systems · AWS</strong>
-</p>
-
-<p align="center">
-  3+ years of professional software engineering experience
-</p>
-
 ## About
 
 Backend Software Engineer with 3+ YOE building
